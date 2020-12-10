@@ -105,42 +105,64 @@ Linear model and lasso regression are the recommended models for sentiment analy
 * A - Dell
 
 [Dell - S2319NX 23" IPS LED FHD Monitor - Black/Silver](https://www.bestbuy.com/site/dell-s2319nx-23-ips-led-fhd-monitor-black-silver/6237640.p?skuId=6237640)
+
 [Dell - S2719DGF 27" LED QHD FreeSync Monitor (DisplayPort, HDMI) - Black](https://www.bestbuy.com/site/dell-s2719dgf-27-led-qhd-freesync-monitor-displayport-hdmi-black/6293714.p?skuId=6293714)
+
 [Dell - 27" IPS LED FHD FreeSync Monitor - Piano Black](https://www.bestbuy.com/site/dell-27-ips-led-fhd-freesync-monitor-piano-black/6394138.p?skuId=6394138)
+
 [Dell - 32" LED Curved QHD FreeSync Monitor with HDR (DisplayPort, HDMI, USB)](https://www.bestbuy.com/site/dell-32-led-curved-qhd-freesync-monitor-with-hdr-displayport-hdmi-usb/6375331.p?skuId=6375331)
+
 
 * B - LG
 
 [LG - 24" IPS LED FHD FreeSync Monitor - Black](https://www.bestbuy.com/site/lg-24-ips-led-fhd-freesync-monitor-black/6362423.p?skuId=6362423)
+
 [LG - 27UL600-W 27" IPS LED 4K UHD FreeSync Monitor with HDR (DisplayPort, HDMI) - Silver/White](https://www.bestbuy.com/site/lg-27ul600-w-27-ips-led-4k-uhd-freesync-monitor-with-hdr-displayport-hdmi-silver-white/6329956.p?skuId=6329956)
+
 [LG - UltraGear 27" IPS LED QHD FreeSync Monitor with HDR (HDMI) - Black](https://www.bestbuy.com/site/lg-ultragear-27-ips-led-qhd-freesync-monitor-with-hdr-hdmi-black/6358119.p?skuId=6358119)
+
 [LG - 34WL500-B 34" IPS LED UltraWide FHD FreeSync Monitor with HDR (HDMI) - Black](https://www.bestbuy.com/site/lg-34wl500-b-34-ips-led-ultrawide-fhd-freesync-monitor-with-hdr-hdmi-black/6329954.p?skuId=6329954)
+
 
 * C - HP
 
 [HP - 24f 23.8" IPS LED FHD FreeSync Monitor - Natural Silver](https://www.bestbuy.com/site/hp-24f-23-8-ips-led-fhd-freesync-monitor-natural-silver/6317590.p?skuId=6317590)
+
 [HP - 25x 24.5" LED FHD Monitor (HDMI) - Gray/Green](https://www.bestbuy.com/site/hp-25x-24-5-led-fhd-monitor-hdmi-gray-green/6280605.p?skuId=6280605)
+
 [HP - 27f 27" IPS LED FHD FreeSync Monitor (HDMI, VGA) - Natural Silver](https://www.bestbuy.com/site/hp-27f-27-ips-led-fhd-freesync-monitor-hdmi-vga-natural-silver/6219205.p?skuId=6219205)
+
 [HP - 31.5" IPS LED FHD Monitor (HDMI, VGA) - Black](https://www.bestbuy.com/site/hp-31-5-ips-led-fhd-monitor-hdmi-vga-black/6361917.p?skuId=6361917)
+
 
 * D - Samsung
 
 [Samsung - 390 Series 24" LED Curved FHD FreeSync Monitor (DVI, HDMI, VGA) - High glossy black](https://www.bestbuy.com/site/samsung-390-series-24-led-curved-fhd-freesync-monitor-dvi-hdmi-vga-high-glossy-black/5044601.p?skuId=5044601)
+
 [Samsung - T55 Series 27" LED 1000R Curved FHD FreeSync Monitor (DisplayPort, HDMI, VGA)](https://www.bestbuy.com/site/samsung-t55-series-27-led-1000r-curved-fhd-freesync-monitor-displayport-hdmi-vga/6402202.p?skuId=6402202)
+
 [Samsung - UR55 Series 28" IPS 4K UHD Monitor - Dark Gray/Blue](https://www.bestbuy.com/site/samsung-ur55-series-28-ips-4k-uhd-monitor-dark-gray-blue/6386391.p?skuId=6386391)
+
 [Samsung - UJ59 Series U32J590UQN 32" LED 4K UHD FreeSync Monitor (DisplayPort, HDMI) - Dark Gray/Blue](https://www.bestbuy.com/site/samsung-uj59-series-u32j590uqn-32-led-4k-uhd-freesync-monitor-displayport-hdmi-dark-gray-blue/6293716.p?skuId=6293716)
+
 
 * E - ASUS
 
 [ASUS - 23.8" IPS LCD FHD FreeSync Gaming Monitor (DisplayPort, DVI, HDMI) - Black](https://www.bestbuy.com/site/asus-23-8-ips-lcd-fhd-freesync-gaming-monitor-displayport-dvi-hdmi-black/6395359.p?skuId=6395359)
+
 [ASUS - VG245H 24” FHD 1ms FreeSync Console Gaming Monitor (Dual HDMI, VGA) - Black](https://www.bestbuy.com/site/asus-vg245h-24-fhd-1ms-freesync-console-gaming-monitor-dual-hdmi-vga-black/5591926.p?skuId=5591926)
+
 [ASUS - 27" IPS LCD FHD FreeSync Gaming Monitor (DisplayPort, DVI, HDMI) - Black](https://www.bestbuy.com/site/asus-27-ips-lcd-fhd-freesync-gaming-monitor-displayport-dvi-hdmi-black/6336778.p?skuId=6336778)
+
 [ASUS - ZenScreen 15.6” Portable Monitor (USB) - Dark Gray](https://www.bestbuy.com/site/asus-zenscreen-15-6-portable-monitor-usb-dark-gray/6403999.p?skuId=6403999)
+
 
 * F - Acer
 
 [Acer - 23.6" LED FHD Monitor (DVI, HDMI, VGA) - Black](https://www.bestbuy.com/site/acer-23-6-led-fhd-monitor-dvi-hdmi-vga-black/6404005.p?skuId=6404005)
-[Acer - 23.8" IPS LED FHD FreeSync Monitor (HDMI, VGA) - Black](https://www.bestbuy.com/site/acer-23-8-ips-led-fhd-freesync-monitor-hdmi-vga-black/6401005.p?skuId=6401005)
-[Acer - 27" IPS LED FHD FreeSync Monitor (HDMI, VGA) - Black](https://www.bestbuy.com/site/acer-27-ips-led-fhd-freesync-monitor-hdmi-vga-black/6401007.p?skuId=6401007)
-[Acer - Predator XB272 27" LED FHD G-SYNC Monitor (DisplayPort, HDMI, USB) - Black](https://www.bestbuy.com/site/acer-predator-xb272-27-led-fhd-g-sync-monitor-displayport-hdmi-usb-black/6238705.p?skuId=6238705)
 
+[Acer - 23.8" IPS LED FHD FreeSync Monitor (HDMI, VGA) - Black](https://www.bestbuy.com/site/acer-23-8-ips-led-fhd-freesync-monitor-hdmi-vga-black/6401005.p?skuId=6401005)
+
+[Acer - 27" IPS LED FHD FreeSync Monitor (HDMI, VGA) - Black](https://www.bestbuy.com/site/acer-27-ips-led-fhd-freesync-monitor-hdmi-vga-black/6401007.p?skuId=6401007)
+
+[Acer - Predator XB272 27" LED FHD G-SYNC Monitor (DisplayPort, HDMI, USB) - Black](https://www.bestbuy.com/site/acer-predator-xb272-27-led-fhd-g-sync-monitor-displayport-hdmi-usb-black/6238705.p?skuId=6238705)
