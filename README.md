@@ -12,18 +12,20 @@ Lasso regression is the optimal model for review analysis, while linear regressi
 
 ## 2 - Data Visualization
 **2.1 Review Count by Brand and Star**
+
   ![say sth](https://github.com/simon201918/BestBuy_Customer_Review_Scraping_And_Analytics/blob/main/Pictures/1.1%20Count%20by%20Brand%20and%20Star.png?raw=true)
 
 This graph shows the review count by brand and stars of all candidate monitors. HP has the most customer review among all the brands, and five and four stars are the most popular review. However, we can't tell whether all the brands have a similar review distribution.
 
 **2.2 Review Count by Brand and Star (Percentage)**
+
 ![say sth](https://github.com/simon201918/BestBuy_Customer_Review_Scraping_And_Analytics/blob/main/Pictures/1.2%20Count%20by%20Brand%20and%20Star%20(Percentage).png?raw=true)
 
 This graph shows the review percentage distribution by brand. All companies have similar distribution. ASUS, Dell and HP enjoy a higher five-star review percentage than the rest of brands, though the difference is not materially significant.
 
 **2.3 Review Count Over Time by Date**
-![say sth](https://github.com/simon201918/BestBuy_Customer_Review_Scraping_And_Analytics/blob/main/Pictures/2.%20Review%20Count%20Over%20Time.png?raw=true)
 
+![say sth](https://github.com/simon201918/BestBuy_Customer_Review_Scraping_And_Analytics/blob/main/Pictures/2.%20Review%20Count%20Over%20Time.png?raw=true)
 
 Finally, the majority of the reviews were written in 2019 and 2020. This makes sense for monitors because electronic products update fast. It is also surprising to see that some of the candidate monitors have review record since 2016, which means it haven't been updated for five years.
 
