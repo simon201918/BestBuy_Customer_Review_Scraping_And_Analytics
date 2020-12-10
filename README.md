@@ -98,7 +98,7 @@ Their confusion matrix on TESTING DATA are printed below.
 |**5** 			 | 0 | 0 | 5 | 260 |**1560**  |
 
 ## 4 - Conclusion
-Linear model and lasso regression are the recommended models for sentiment analysis with customer review. When both review main content and title are available, choosing title as model input could improve model performance and lower computation difficulties. However, cautions are need before applying such conclusion to other review categories.
+Linear model and lasso regression are the recommended models for sentiment analysis with customer review. When both review main content and title are available, selecting title as model input could improve model performance and lower computation difficulties. However, cautions are need before applying such conclusion to other review categories.
 
 ## 5 - Appendix
 ### Monitor  Information
